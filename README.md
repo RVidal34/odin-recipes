@@ -19,6 +19,15 @@ Creating a website listing my favorite recipes.
   - Prettier - Code Formatter
 - **`Firefox`** / **`Brave`**
 
+---
+
+## Project presentation
+
+Creation of a site listing the three favorite recipes.
+The purpose of this exercise is to work on the **`html`** structure and understand how it works.
+
+---
+
 ## Credits
 
 [The Odin Project](https://www.theodinproject.com)

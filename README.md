@@ -7,14 +7,20 @@ Creating a website listing my favorite recipes.
 
 ## Stack
 
-- HTML
+- **`HTML`**
 
 ---
 
 ## Tools : developments & web
 
-- VScode
+- **`VScode`**
   - Live Server
   - Auto Complete Tag
   - Prettier - Code Formatter
-- Firefox / Brave
+- **`Firefox`** / **`Brave`**
+
+## Credits
+
+[The Odin Project](https://www.theodinproject.com)
+
+[allrecipes](https://www.allrecipes.com/) Thank you for the recipes that allowed me to create this site.

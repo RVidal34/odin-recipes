@@ -1,5 +1,8 @@
 # odin-recipes
 
+First of all, I want to apologize if my English isn't great. I'm French, and I use Google Translate for my translations when I'm unsure (which happens often given my lack of practice).
+Thank you in advance for your kindness.
+
 This project is a practice in HTML structure.
 Creating a website listing my favorite recipes.
 

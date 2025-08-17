@@ -28,6 +28,13 @@ The purpose of this exercise is to work on the **`html`** structure and understa
 
 ---
 
+## difficulty encountered
+
+- Finding names for `class`: finding representative and generic names for similar sections.
+- Find the right structure between `section` `div`
+
+---
+
 ## Credits
 
 [The Odin Project](https://www.theodinproject.com)
